@@ -26,24 +26,26 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Simple Whatsapp bot" //namabot kalian
-global.ownername= "Creator Bot" //nama kalian
+global.botname = "𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥" //namabot kalian
+global.ownername= "𝕱𝖆𝖗𝖚𝖖𝖔𝖋𝖈" //nama kalian
 global.myweb ="gaada web" //bebas asal jan hapus
 global.youtube = "https://api.faruqofc.xyz" //bebas asal jan hapus
 global.myweb2 = "https://api.jemboed.xyz" //bebas
 global.email = "jdhshuwwhwu@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285807264974'] //premium user
-global.owner = ["6285807264974","6285807264974"] //ganti agar fitur owner bisa di gunakan
+global.premium = ["6285807264974"] //premium user
+global.owner = ["6285807264974","6283150915460"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285807264974" // nomor wa kalian
 global.ownernomerr = "+6285807264974" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Simple Whatsapp bot' //sticker wm ubah
-global.author = 'Di Buat Oleh sikontol' //sticker wm ganti nama kalian
+global.packname = '© 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥' //sticker wm ubah
+global.author = '𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥'
+
+ //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
