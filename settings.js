@@ -43,7 +43,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/2c3a9d5df1cbd2b020c62.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '© 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥' //sticker wm ubah
-global.author = '𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥'
+global.author = '𝙋𝙤𝙬𝙚𝙧𝙚𝙙 𝙗𝙮 𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥'
 
  //sticker wm ganti nama kalian
 global.sessionName = 'session'
