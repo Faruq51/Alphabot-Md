@@ -27,7 +27,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥" //namabot kalian
-global.ownername= "𝕱𝖆𝖗𝖚𝖖𝖔𝖋𝖈" //nama kalian
+global.ownername= "𝕱𝖆𝖗𝖚𝖖𝖔𝖋𝖈 & 𝖐𝖎𝖓𝖆𝖆" //nama kalian
 global.myweb ="https://chat.whatsapp.com/IqVwUCR7da99553oXJhHed" //bebas asal jan hapus
 global.youtube = "https://api.faruqofc.xyz" //bebas asal jan hapus
 global.myweb2 = "https://api.jemboed.xyz" //bebas
@@ -35,7 +35,7 @@ global.email = "jdhshuwwhwu@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285807264974'] //premium user
-global.owner = ["6285807264974","6283150915460"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285807264974","6281248009076"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285807264974" // nomor wa kalian
 global.ownernomerr = "+6285807264974" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
