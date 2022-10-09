@@ -27,7 +27,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "𝐂𝐡𝐚𝐭𝐛𝐨𝐭 𝐎𝐟𝐢𝐜𝐢𝐚𝐥" //namabot kalian
-global.ownername= "𝕱𝖆𝖗𝖚𝖖𝖔𝖋𝖈 & 𝖐𝖎𝖓𝖆𝖆" //nama kalian
+global.ownername= ["𝕱𝖆𝖗𝖚𝖖𝖔𝖋𝖈","𝖐𝖎𝖓𝖆𝖆"] //nama kalian
 global.myweb ="https://chat.whatsapp.com/IqVwUCR7da99553oXJhHed" //bebas asal jan hapus
 global.youtube = "https://api.faruqofc.xyz" //bebas asal jan hapus
 global.myweb2 = "https://api.jemboed.xyz" //bebas
